@@ -1,6 +1,9 @@
-# Analytics-Exploratory-Data-Analysis-Data-Visualization-Interpreting-Data-with-Python
+## Data Analytics Python Learnings
 
 ## Data Analytics
+
+## Interpreting Data with Python
+
 Data Analytics is the detection, interpretation, and communication of meaningful patterns in data.
 
 Learn fundamental objectives around representing, processing, and shaping data for analysis.
